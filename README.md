@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Lukas!
 
-## 🚀 Current Projects
+## 🚀 My Projects
 
-### 🌟 Website of the FMC Freiburg
+### 🌟 Website for the FMC Freiburg
 - **URL:** [Live Website](https://fmc-webseite.web.app/home) | [GitHub Repository](https://github.com/luk4sf/FMC_Webseite)  
 - **Status:** Inactive (formerly the official website of FMC Freiburg)  
-- **Description:** The official website of FMC Freiburg during its active period, still accessible online for reference.
-- **Tech Stack:** CSS, HTML, JS
+- **Description:** This website was the official online presence of the FMC Freiburg during its active period. While the site is no longer maintained or updated, it remains available for reference. It was built using Firebase for hosting and backend services, with all logic implemented in JavaScript. The frontend utilizes the Bulma CSS framework
+- **Tech Stack:** Bulma CSS, HTML, JS, Firebase
 
 ## 🎯 CTF Participation / Writeups
 
