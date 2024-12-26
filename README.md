@@ -2,8 +2,10 @@
 
 ## 🚀 Current Projects
 
-### 🌟 Website for the FMC Freiburg https://github.com/luk4sf/FMC_Webseite
-- **Description:** [retired] Website of the FMC Freiburg
+### 🌟 Website of the FMC Freiburg
+- **URL:** [Live Website](https://fmc-webseite.web.app/home) | [GitHub Repository](https://github.com/luk4sf/FMC_Webseite)  
+- **Status:** Inactive (formerly the official website of FMC Freiburg)  
+- **Description:** The official website of FMC Freiburg during its active period, still accessible online for reference.
 - **Tech Stack:** CSS, HTML, JS
 
 ## 🎯 CTF Participation / Writeups
