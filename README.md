@@ -2,9 +2,9 @@
 
 ## 🚀 Current Projects
 
-### 🌟 [Project Name](Project Link)
-- **Description:** A brief overview of the project. Mention its purpose, features, or technology stack.
-- **Tech Stack:** List the technologies/tools used.
+### 🌟 Website for the FMC Freiburg https://github.com/luk4sf/FMC_Webseite
+- **Description:** [retired] Website of the FMC Freiburg
+- **Tech Stack:** CSS, HTML, JS
 
 ## 🎯 CTF Participation / Writeups
 
