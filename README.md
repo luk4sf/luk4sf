@@ -7,6 +7,10 @@
 - **Status:** Inactive (formerly the official website of FMC Freiburg)  
 - **Description:** This website was the official online presence of the FMC Freiburg during its active period. While the site is no longer maintained or updated, it remains available for reference. It was built using Firebase for hosting and backend services, with all logic implemented in JavaScript. The frontend utilizes the Bulma CSS framework
 - **Tech Stack:** Bulma CSS, HTML, JS, Firebase
+### 🌟 Matrix Server for Infrafon
+- **URL:** [GitHub Repository](https://github.com/luk4sf/Infrafon-Matrix.Server) 
+- **Description:** This website was the official online presence of the FMC Freiburg during its active period. While the site is no longer maintained or updated, it remains available for reference. It was built using Firebase for hosting and backend services, with all logic implemented in JavaScript. The frontend utilizes the Bulma CSS framework
+- **Tech Stack:** Bulma CSS, HTML, JS, Firebase
 
 ## 🎯 CTF Participation / Writeups
 
