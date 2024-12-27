@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! This is where I organize my projects, experiments, and interests. While it's mostly set up to help me stay on top of my work, you're more than welcome to explore. If you have any questions, suggestions, or just want to chat about something interesting, feel free to reach out—I’d love to connect with like-minded people! 
 
+## Guides
+
+### 📚 Guides Collection 
+This is a random collection of guides focused on processes or installing things that I regularly need. Feel free to use any of them or point out errors!
+- **Repository:** [Guides Repository](https://github.com/luk4sf/Guides)
+
 ## 🚀 My Projects
 
 ### 🌟 Website for the FMC Freiburg
