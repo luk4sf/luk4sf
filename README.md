@@ -22,13 +22,15 @@ I actively participate in Capture the Flag (CTF) events to sharpen my cybersecur
 
 ---
 
-## 🌱 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [specific focus, e.g., "full-stack applications"].
-- 🌱 I’m learning [new technologies or fields, e.g., "Rust programming" or "cloud security"].
-- 💬 Ask me about [specific area of expertise].
-- 📫 How to reach me: [Your Email or LinkedIn Profile].
-- ⚡ Fun fact: [A unique or interesting personal fact].
+Hi there! I'm Lukas, a passionate tech enthusiast currently pursuing my studies at Albert-Ludwigs-Universität Freiburg in Computer Science. My interests span a wide range of topics in both software and hardware domains. I love diving deep into:  
 
----
+- 🛠️ Hardware Hacking  
+- 📶 Wi-Fi Hacking  
+- 🔗 Bluetooth Low Energy (BLE)  
+- 💻 Virtual Machines (VMs) and virtualization 
+- 🔐 Cryptography, with a special focus on mental card games and lattice-based cryptography  
+- 📡 RFID technologies  
+- 📋 Process Management and optimization 
 
