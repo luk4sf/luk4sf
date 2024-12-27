@@ -14,11 +14,9 @@
 
 ## 🎯 CTF Participation / Writeups
 
-I actively participate in Capture the Flag (CTF) events to sharpen my cybersecurity skills. Here are some of the events I've participated in:
+I actively participate in Capture the Flag (CTF) events. Here are some of the events I've participated in:
 
-- **[CTF Event Name](Event Link):** Mention the CTF organizer or platform and highlight your achievements.
-- **[CTF Event Name](Event Link):** Describe the challenges or unique experiences from this event.
-- **[CTF Event Name](Event Link):** Include a short anecdote or notable moment from the event.
+- **[BLE CTF](https://github.com/hackgnar/ble_ctf):** This CTF is made by hackgnar and is supposed to teach the core concepts of Bluetooth Low Energy client and server interactions. For more information visit it's GitHub page or  [read my writeup](https://github.com/YourUsername/YourWriteupRepo).
 
 ---
 
