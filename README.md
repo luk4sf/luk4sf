@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Lukas!
 
+Welcome to my GitHub profile! This is where I organize my projects, experiments, and interests. While it's mostly set up to help me stay on top of my work, you're more than welcome to explore. If you have any questions, suggestions, or just want to chat about something interesting, feel free to reach out—I’d love to connect with like-minded people! 
+
 ## 🚀 My Projects
 
 ### 🌟 Website for the FMC Freiburg
@@ -22,7 +24,7 @@ I actively participate in Capture the Flag (CTF) events. Here are some of the ev
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Lukas, a passionate tech enthusiast currently pursuing my studies at Albert-Ludwigs-Universität Freiburg in Computer Science. My interests span a wide range of topics in both software and hardware domains. I love diving deep into:  
+Hi there! I'm Lukas, a passionate tech enthusiast currently studying Computer Science at Albert-Ludwigs-Universität in Freiburg. My interests span a wide range of topics across both software and hardware domains. I love diving deep into:  
 
 - 🛠️ Hardware Hacking  
 - 📶 Wi-Fi Hacking  
