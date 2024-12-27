@@ -34,3 +34,5 @@ Hi there! I'm Lukas, a passionate tech enthusiast currently pursuing my studies 
 - 📡 RFID technologies  
 - 📋 Process Management and optimization 
 
+Feel free to explore my repositories and connect with me for collaborations or discussions!  
+
