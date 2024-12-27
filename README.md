@@ -4,7 +4,6 @@ Welcome to my GitHub profile! This is where I organize my projects, experiments,
 
 ## Guides
 
-### Guides Collection 
 This is a random collection of guides focused on processes or installing things that I regularly need. Feel free to use any of them or point out errors!
 - **Repository:** [Guides Repository](https://github.com/luk4sf/Guides)
 
