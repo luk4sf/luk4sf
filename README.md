@@ -21,7 +21,7 @@ This is a random collection of guides focused on processes or installing things 
 
 ### Streamsheets Demo for Infrafon
 - **Repository:** [Streamsheets Demo](https://github.com/luk4sf/streamsheets-demo)  
-- **Description:** A demo showcasing how the Infrafon device, BLE beacons, and Streamsheets can be used to streamline cleaning workflows. This project demonstrates real-time notifications, data processing, and workflow integration using MQTT and BLE technology. You can watch the video demo [here](https://www.linkedin.com/video/demo-link).  
+- **Description:** A demo showcasing how the Infrafon device, BLE beacons, and Streamsheets can be used to streamline cleaning workflows. This project demonstrates real-time notifications, data processing, and workflow integration using MQTT and BLE technology. You can watch the video demo [here](https://www.linkedin.com/posts/infrafon_ztna-zerotrust-ble-activity-7275930284796088320-MqLY?utm_source=share&utm_medium=member_desktop).  
 - **Tech Stack:** Streamsheets, MQTT, BLE, [Infrafon](https://www.infrafon.com/)  
 
 
