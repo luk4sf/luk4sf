@@ -35,7 +35,7 @@ Hi there! I'm Lukas, a passionate tech enthusiast currently studying Computer Sc
 - 📶 Wi-Fi Hacking  
 - 🔗 Bluetooth Low Energy (BLE)  
 - 💻 Virtual Machines (VMs) and virtualization 
-- 🔐 Cryptography, with a special focus on mental card games and lattice-based cryptography  
+- 🔐 Cryptography, especially post-quantum
 - 📡 RFID technologies  
 - 📋 Process Management and optimization 
 
