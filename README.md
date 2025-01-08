@@ -19,6 +19,12 @@ This is a random collection of guides focused on processes or installing things 
 - **Description:** Matrix-Infrafon-Server is a server application built on the Matrix API, designed to use bots for reading messages from Matrix chatrooms, processing the data, and sending commands to IoT devices over MQTT. It enables seamless communication by forwarding messages to devices and allowing users to reply directly from the devices back into the Matrix chatroom.
 - **Tech Stack:** Python
 
+### Streamsheets Demo for Infrafon
+- **Repository:** [Streamsheets Demo](https://github.com/luk4sf/streamsheets-demo)  
+- **Description:** A demo showcasing how the Infrafon device, BLE beacons, and Streamsheets can be used to streamline cleaning workflows. This project demonstrates real-time notifications, data processing, and workflow integration using MQTT and BLE technology. You can watch the video demo [here](https://www.linkedin.com/video/demo-link).  
+- **Tech Stack:** Streamsheets, MQTT, BLE, [Infrafon](https://www.infrafon.com/)  
+
+
 ## 🎯CTF Participation / Writeups
 
 I actively participate in Capture the Flag (CTF) events. Here are some of the events I've participated in:
